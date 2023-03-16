@@ -20,7 +20,7 @@ def display_board(a, b):
 def welcome():
     """A welcome message"""
     print('Welcome to Tic-Tac_toe. It is a game for two players')
-    print('The first to go will be chosen randomly')
+    print('The first to go will be chosen randomly and this is my password:-123aaa')
 
 
 def ask_marker():
